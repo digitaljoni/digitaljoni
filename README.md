@@ -1,6 +1,8 @@
+[![Flutter/Dart Developer x Game Developer](https://raw.githubusercontent.com/digitaljoni/digitaljoni/master/digitaljoni.png)](https://www.digitaljoni.com)
+
 ### Hi there 👋
 
-I'm a Flutter/Dart Developer💙.
+I'm a Flutter/Dart Developer💙 and Game Developer.
 
 - 📱 I’m currently working on various app projects
 - 📱 I developed projects
