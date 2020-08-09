@@ -1,4 +1,4 @@
-[![Flutter/Dart Developer x Game Developer](https://raw.githubusercontent.com/digitaljoni/digitaljoni/master/digitaljoni.png)](https://www.digitaljoni.com)
+[![Flutter/Dart Developer x Game Developer](https://raw.githubusercontent.com/digitaljoni/digitaljoni/master/digitaljoni2.png)](https://www.digitaljoni.com)
 
 ### Hi there 👋
 
@@ -6,11 +6,11 @@ I'm a Flutter/Dart Developer💙 and Game Developer👾.
 
 - 💻 I’m currently working on various app projects
 - 🎉 I published:
-  - 📈 PhStock Tracker Android
-  - 📱 Critterpedia Guide IOS & Android
-  - 🎮 Runes Match 3 IOS & Android
+  - 📈 PhStock Tracker [Android](https://play.google.com/store/apps/details?id=com.digitaljoni.ph_stock_tracker)
+  - 📱 Critterpedia Guide [IOS](https://apps.apple.com/app/id1526677914) & [Android](https://play.google.com/store/apps/details?id=com.digitaljoni.critterpedia)
+  - 🎮 Runes Match 3 [IOS](https://apps.apple.com/us/app/id1526308702) & [Android](https://play.google.com/store/apps/details?id=com.digitaljoni.match3game)
 - 🇵🇭 I help in building an amazing community at [Flutter Philippines](https://flutter.ph)
-- 💾 I have some sample Flutter codes in my [CodePen profile](https://codepen.io/digitaljoni) and Github repos
+- 💾 I have some sample Flutter codes in my [CodePen profile](https://codepen.io/digitaljoni) and [Flutter Examples In Github](https://github.com/digitaljoni/examples_flutter)
 - 💬 Ask me about [Flutter](http://flutter.dev/) and [Dart](https://dart.dev/)
 
 ### Get in touch
